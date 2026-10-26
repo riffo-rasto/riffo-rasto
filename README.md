@@ -1,5 +1,5 @@
 # Hi, I'm Rifo Rasto Bella Krista 👋
-As Know as Matrik
+As Known as Matrik
 
 <br>
 
