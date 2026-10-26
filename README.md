@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rifo 👋
 
-<!--
-**riffo-rasto/riffo-rasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NOC Engineer & Network Administrator keeping ISP networks stable, and building web tools to automate the boring parts.
 
-Here are some ideas to get you started:
+📍 Indonesia · 🔧 NOC @ PT Phatria Inti Persada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-blue)
+![Juniper](https://img.shields.io/badge/Juniper-Junos-green)
+![FortiGate](https://img.shields.io/badge/FortiGate-FortiOS-red)
+![Huawei](https://img.shields.io/badge/Huawei-VRP-orange)
+
+## 🚀 Featured Work
+- ✅ **NOC Daily Checklist**: web app untuk pengecekan harian NOC (ping upstream/POP, trafik PRTG) dengan status OK/Warning/Down, jam cek otomatis, upload bukti gambar, dan rekap CSV/Excel (PHP + MySQL)
+- ⚙️ **ZTE OLT Config Generator**: generate config registrasi ONU untuk OLT C320/C300 dari form atau spreadsheet, plus database ONU yang bisa diunduh (CSV/XLS) *(in progress)*
+- 📘 **NOC & CS SOP Handbook**: panduan penanganan kendala dan checklist standar untuk tim NOC dan CS
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
