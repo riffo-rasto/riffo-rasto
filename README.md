@@ -1,19 +1,42 @@
 # Hi, I'm Rifo 👋
 
-NOC Engineer & Network Administrator keeping ISP networks stable, and building web tools to automate the boring parts.
+**NOC Engineer & Network Administrator** keeping ISP networks stable, and building web tools to automate the boring parts.
 
 📍 Indonesia · 🔧 NOC @ PT Phatria Inti Persada
 
+---
+
 ## 🛠 Tech Stack
-![MikroTik]([https://img.shields.io/badge/MikroTik-RouterOS-blue](https://camo.githubusercontent.com/d020c78355e5b2a2e0f5d1e46727ef40e151608e1840c26bf89e21f287560056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d696b726f54696b2d3239333233393f7374796c653d666c6174266c6f676f3d6d696b726f74696b266c6f676f436f6c6f723d7768697465))
-![Juniper](https://img.shields.io/badge/Juniper-Junos-green)
-![FortiGate](https://img.shields.io/badge/FortiGate-FortiOS-red)
-![Huawei](https://img.shields.io/badge/Huawei-VRP-orange)
+
+**Network**
+
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-84B135?style=flat&logo=junipernetworks&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white)
+
+**Web & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
 
 ## 🚀 Featured Work
-- ✅ **NOC Daily Checklist**: web app untuk pengecekan harian NOC (ping upstream/POP, trafik PRTG) dengan status OK/Warning/Down, jam cek otomatis, upload bukti gambar, dan rekap CSV/Excel (PHP + MySQL)
-- ⚙️ **ZTE OLT Config Generator**: generate config registrasi ONU untuk OLT C320/C300 dari form atau spreadsheet, plus database ONU yang bisa diunduh (CSV/XLS) *(in progress)*
-- 📘 **NOC & CS SOP Handbook**: panduan penanganan kendala dan checklist standar untuk tim NOC dan CS
+
+- ✅ [**NOC Daily Checklist**](https://github.com/riffo-rasto/checklist-NOC): per-shift daily checks with OK / Warning / Down status, auto-filled check time, photo evidence upload, and CSV / Excel / PDF recaps (PHP + MySQL)
+- ⚙️ **ZTE OLT Config Generator**: generates ONU registration configs for C320 / C300 OLTs from a form or spreadsheet, with a downloadable ONU database (CSV / XLS) *(in progress)*
+- 📘 **NOC & CS SOP Handbook**: standard troubleshooting steps and checklists for NOC and customer support teams
+
+---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=riffo-rasto&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 📫 Connect
+
+[💼 LinkedIn](https://www.linkedin.com/in/riforasto) · [📸 Instagram](https://www.instagram.com/inigueerifo) · [✉️ Email](mailto:rifforasto24@gmail.com)
