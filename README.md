@@ -31,6 +31,20 @@
 
 ---
 
+## 💼 Experience
+
+PT PHATRIA INTI PERSADA - Bekasi, Indonesia
+(Juli 2025 - Saat ini)
+- Staff Network Operation Center (NOC)
+
+PT ARJUNA GLOBAL TEKNOLOGI  – Cileungsi, Indonesia
+(Februari 2019 – Juli 2025)
+- Staff Network Operation Center | (Juni 2023 - Juli 2025)
+- IT Helpdesk / IT Support | (Maret 2021 – Juni 2023)
+- Teknisi IT / Lapangan | (Februari 2019 – Maret 2021)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=riffo-rasto&show_icons=true&theme=dark&hide_border=true)
