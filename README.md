@@ -53,9 +53,9 @@ PT ARJUNA GLOBAL TEKNOLOGI  – Cileungsi, Indonesia
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=riffo-rasto&show_icons=true&theme=transparent&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=riffo-rasto&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riffo-rasto&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riffo-rasto&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
